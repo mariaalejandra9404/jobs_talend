@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_LU0VUFB9EeerKvXX1QxHgQ" id="_LUnhAFB9EeerKvXX1QxHgQ" label="volcado_apropiacion" creationDate="2017-06-13T16:13:41.925-0500" modificationDate="2017-06-20T16:39:41.413-0500" version="0.1" statusCode="" item="_LU08YFB9EeerKvXX1QxHgQ" displayName="volcado_apropiacion">
+    <author href="../../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_LU0VUVB9EeerKvXX1QxHgQ" path="financiera/apropiacion"/>
+  <TalendProperties:ProcessItem xmi:id="_LU08YFB9EeerKvXX1QxHgQ" property="_LU0VUFB9EeerKvXX1QxHgQ" state="_LU0VUVB9EeerKvXX1QxHgQ">
+    <process href="volcado_apropiacion_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

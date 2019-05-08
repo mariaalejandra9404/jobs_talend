@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_qxceNaR0EeeTJ6eFXLTGXQ" id="_qxaBsKR0EeeTJ6eFXLTGXQ" label="contrato_general" creationDate="2017-09-28T17:44:25.164+0000" modificationDate="2017-09-28T17:44:18.966+0000" version="0.1" statusCode="" item="_qxceN6R0EeeTJ6eFXLTGXQ" displayName="contrato_general">
+    <author href="../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_qxceNqR0EeeTJ6eFXLTGXQ" path="" locked="true" lockDate="2017-09-28T17:48:43.769+0000">
+    <locker href="../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:GenericSchemaConnectionItem xmi:id="_qxceN6R0EeeTJ6eFXLTGXQ" property="_qxceNaR0EeeTJ6eFXLTGXQ" state="_qxceNqR0EeeTJ6eFXLTGXQ">
+    <connection href="contrato_general_0.1.item#_qxcd8KR0EeeTJ6eFXLTGXQ"/>
+  </TalendProperties:GenericSchemaConnectionItem>
+</xmi:XMI>

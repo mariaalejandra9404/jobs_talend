@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_sIQnomAGEeatGJv7WGjxOg" id="_SaqBAGAGEeatGJv7WGjxOg" label="SiCapital" creationDate="2016-08-11T21:00:52.882+0000" modificationDate="2017-06-20T19:59:57.289+0000" version="0.1" statusCode="" item="_sIQnpGAGEeatGJv7WGjxOg" displayName="SiCapital">
+    <author href="../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_sIQno2AGEeatGJv7WGjxOg" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_sIQnpGAGEeatGJv7WGjxOg" property="_sIQnomAGEeatGJv7WGjxOg" state="_sIQno2AGEeatGJv7WGjxOg">
+    <connection href="SiCapital_0.1.item#_sIPZgGAGEeatGJv7WGjxOg"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

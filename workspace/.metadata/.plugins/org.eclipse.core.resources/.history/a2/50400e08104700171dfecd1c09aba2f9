@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_3NGs4D8oEeeDkv0nwW2QiA" id="_3M-KAD8oEeeDkv0nwW2QiA" label="volcado_rubros" purpose="Volcar los rubros desde SiCapital hacia el ERP" creationDate="2017-05-22T14:57:19.404-0500" modificationDate="2017-06-01T16:16:24.243-0500" version="0.1" statusCode="" item="_3NGs4j8oEeeDkv0nwW2QiA" displayName="volcado_rubros">
+    <author href="../../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_3NGs4T8oEeeDkv0nwW2QiA" path="financiera/apropiacion" locked="true" lockDate="2017-05-25T15:52:59.706-0500">
+    <locker href="../../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_3NGs4j8oEeeDkv0nwW2QiA" property="_3NGs4D8oEeeDkv0nwW2QiA" state="_3NGs4T8oEeeDkv0nwW2QiA">
+    <process href="volcado_rubros_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

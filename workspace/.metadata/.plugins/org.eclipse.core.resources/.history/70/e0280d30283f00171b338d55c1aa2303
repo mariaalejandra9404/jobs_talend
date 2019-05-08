@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_1BstgGAGEeatGJv7WGjxOg" id="_1BnN8GAGEeatGJv7WGjxOg" label="Volcado_CDP" purpose="Volcar datos de CDP's hacia NIX desde SiCapital" description="Volcar datos de CDP's hacia NIX desde SiCapital" creationDate="2016-08-11T16:01:52.598-0500" modificationDate="2017-05-22T14:17:13.555-0500" version="0.1" statusCode="DEV" item="_1BstgmAGEeatGJv7WGjxOg" displayName="Volcado_CDP">
+    <author href="../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_1BstgWAGEeatGJv7WGjxOg" path="" locked="true" lockDate="2017-05-22T10:39:06.048-0500">
+    <locker href="../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_1BstgmAGEeatGJv7WGjxOg" property="_1BstgGAGEeatGJv7WGjxOg" state="_1BstgWAGEeatGJv7WGjxOg">
+    <process href="Volcado_CDP_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

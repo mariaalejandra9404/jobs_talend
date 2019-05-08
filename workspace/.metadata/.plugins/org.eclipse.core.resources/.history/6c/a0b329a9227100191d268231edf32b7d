@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_GmZxMFxuEemDk6yzisGylA" id="_GmXU8FxuEemDk6yzisGylA" label="Migracion_Titan_OPs_Contratistas" creationDate="2019-04-11T15:25:57.057+0000" modificationDate="2019-05-07T23:47:43.094+0000" version="0.1" statusCode="" item="_GmZxMlxuEemDk6yzisGylA" displayName="Migracion_Titan_OPs_Contratistas">
+    <author href="../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_GmZxMVxuEemDk6yzisGylA" path="OPs" locked="true" lockDate="2019-05-07T19:44:46.309+0000">
+    <locker href="../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_GmZxMlxuEemDk6yzisGylA" property="_GmZxMFxuEemDk6yzisGylA" state="_GmZxMVxuEemDk6yzisGylA">
+    <process href="Migracion_Titan_OPs_Contratistas_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_h9dHAFeMEeeJ7eavls93iA" id="_h9YOgFeMEeeJ7eavls93iA" label="volcado_pagos_funcionarios_2016" purpose="*" description="*" creationDate="2017-06-22T20:51:14.414+0000" modificationDate="2017-09-11T20:23:27.687+0000" version="0.1" statusCode="" item="_h9duEVeMEeeJ7eavls93iA" displayName="volcado_pagos_funcionarios_2016">
+    <author href="../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_h9duEFeMEeeJ7eavls93iA" path="" locked="true" lockDate="2017-09-11T17:40:57.201+0000">
+    <locker href="../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_h9duEVeMEeeJ7eavls93iA" property="_h9dHAFeMEeeJ7eavls93iA" state="_h9duEFeMEeeJ7eavls93iA">
+    <process href="volcado_pagos_funcionarios_2016_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

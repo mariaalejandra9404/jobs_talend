@@ -1,0 +1,27 @@
+INDEX VERSION 1.127+/home/mariaalejandra9404/Documentos/Programas/Talend/TOS_DI-20160704_1411-V6.2.1/workspace/.metadata/.plugins/org.eclipse.jdt.core
+3305841180.index
+1701770612.index
+2580557299.index
+629625836.index
+3894701339.index
+3983033593.index
+564664032.index
+3544254217.index
+2848473408.index
+2400684532.index
+3639080671.index
+94680518.index
+3068071376.index
+715924985.index
+2095452521.index
+2089727353.index
+2899953734.index
+1162356439.index
+3409928500.index
+3364511384.index
+3863581909.index
+794764712.index
+2227174727.index
+3935291063.index
+808542645.index
+234213828.index

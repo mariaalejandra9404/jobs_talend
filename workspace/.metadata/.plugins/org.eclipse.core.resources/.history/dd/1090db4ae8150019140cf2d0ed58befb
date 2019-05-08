@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_8ZWYgKRjEeefs7aZGcEu7Q" id="_CSai8KU7Eee_AZ865BmjOw" label="Informacion_persona_natural_funcionarios_planta" creationDate="2017-09-28T15:44:41.992+0000" modificationDate="2019-01-11T21:27:13.060+0000" version="0.1" statusCode="" item="_8ZWYgqRjEeefs7aZGcEu7Q" displayName="Informacion_persona_natural_funcionarios_planta">
+    <author href="../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_CShQoKU7Eee_AZ865BmjOw" path="administrativa"/>
+  <TalendProperties:ProcessItem xmi:id="_8ZWYgqRjEeefs7aZGcEu7Q" property="_8ZWYgKRjEeefs7aZGcEu7Q" state="_CShQoKU7Eee_AZ865BmjOw">
+    <process href="Informacion_persona_natural_funcionarios_planta_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

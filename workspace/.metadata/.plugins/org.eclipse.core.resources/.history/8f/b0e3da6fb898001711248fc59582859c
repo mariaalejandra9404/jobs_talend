@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_7KRFIJgAEeeUn61Qp8syfw" id="_tEwKcJiZEeeUn61Qp8syfw" label="Prima_tecnica" creationDate="2017-09-12T21:25:39.569+0000" modificationDate="2017-09-13T15:55:01.287+0000" version="0.1" statusCode="" item="_7KRFIpgAEeeUn61Qp8syfw" displayName="Prima_tecnica">
+    <author href="../../talend.project#_Zan5QGAFEeatGJv7WGjxOg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_tE7JkJiZEeeUn61Qp8syfw" path="administrativa"/>
+  <TalendProperties:ProcessItem xmi:id="_7KRFIpgAEeeUn61Qp8syfw" property="_7KRFIJgAEeeUn61Qp8syfw" state="_tE7JkJiZEeeUn61Qp8syfw">
+    <process href="Prima_tecnica_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
